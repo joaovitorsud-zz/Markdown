@@ -1,0 +1,36 @@
+Negrito em markdown -> dois asteristicos ou dois underlines antes e depois **olá** __olá__
+
+Itálico -> 1 asteristico antes e depois *olá*
+
+Riscado -> 2 tius ~~olá~~
+
+Titulo são hashtags, tem 3 niveis de tamanho #olá ##olá ###olá, assim muda o tamanho
+
+3 asteristicos ou 3 sinais de menos ele coloca uma linha abaixo
+*** ou ---
+
+2 underlines e 1 asteristico fica negrito e itálico juntos
+
+lista numerada eu posso colocar um numero e depois dar espaço nela e ele vai criar um sub-item
+
+1.teste
+   1.teste
+2.teste
+   1.teste
+   2.teste
+
+dá pra fazer com numero e 1 ponto ou com asteristico ou com tracinho
+
+criar link -> escreve entre colchetes a mensagem e entre parenteses coloca o link ou url 
+[clique aqui](www.youtube.com)
+
+criar uma tabela com barra ->|
+nome|nota|numero
+joao|1|3
+
+colocar códigos entre 3 crases ele muda o fundo da escrita
+
+```
+print('olá mundo')
+```
+
